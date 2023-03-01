@@ -1,0 +1,15 @@
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Nuolia\Nuolia\obj\Debug\net6.0\Nuolia.csproj.AssemblyReference.cache
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Nuolia\Nuolia\obj\Debug\net6.0\Nuolia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Nuolia\Nuolia\obj\Debug\net6.0\Nuolia.AssemblyInfoInputs.cache
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Nuolia\Nuolia\obj\Debug\net6.0\Nuolia.AssemblyInfo.cs
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Nuolia\Nuolia\obj\Debug\net6.0\Nuolia.csproj.CoreCompileInputs.cache
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Nuolia\Nuolia\bin\Debug\net6.0\Nuolia.exe
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Nuolia\Nuolia\bin\Debug\net6.0\Nuolia.deps.json
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Nuolia\Nuolia\bin\Debug\net6.0\Nuolia.runtimeconfig.json
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Nuolia\Nuolia\bin\Debug\net6.0\Nuolia.dll
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Nuolia\Nuolia\bin\Debug\net6.0\Nuolia.pdb
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Nuolia\Nuolia\obj\Debug\net6.0\Nuolia.dll
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Nuolia\Nuolia\obj\Debug\net6.0\refint\Nuolia.dll
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Nuolia\Nuolia\obj\Debug\net6.0\Nuolia.pdb
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Nuolia\Nuolia\obj\Debug\net6.0\Nuolia.genruntimeconfig.cache
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Nuolia\Nuolia\obj\Debug\net6.0\ref\Nuolia.dll

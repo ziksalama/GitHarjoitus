@@ -1,0 +1,15 @@
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\RuokaAnnos\RuokaAnnos\bin\Debug\net6.0\RuokaAnnos.exe
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\RuokaAnnos\RuokaAnnos\bin\Debug\net6.0\RuokaAnnos.deps.json
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\RuokaAnnos\RuokaAnnos\bin\Debug\net6.0\RuokaAnnos.runtimeconfig.json
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\RuokaAnnos\RuokaAnnos\bin\Debug\net6.0\RuokaAnnos.dll
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\RuokaAnnos\RuokaAnnos\bin\Debug\net6.0\RuokaAnnos.pdb
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\RuokaAnnos\RuokaAnnos\obj\Debug\net6.0\RuokaAnnos.csproj.AssemblyReference.cache
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\RuokaAnnos\RuokaAnnos\obj\Debug\net6.0\RuokaAnnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\RuokaAnnos\RuokaAnnos\obj\Debug\net6.0\RuokaAnnos.AssemblyInfoInputs.cache
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\RuokaAnnos\RuokaAnnos\obj\Debug\net6.0\RuokaAnnos.AssemblyInfo.cs
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\RuokaAnnos\RuokaAnnos\obj\Debug\net6.0\RuokaAnnos.csproj.CoreCompileInputs.cache
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\RuokaAnnos\RuokaAnnos\obj\Debug\net6.0\RuokaAnnos.dll
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\RuokaAnnos\RuokaAnnos\obj\Debug\net6.0\refint\RuokaAnnos.dll
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\RuokaAnnos\RuokaAnnos\obj\Debug\net6.0\RuokaAnnos.pdb
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\RuokaAnnos\RuokaAnnos\obj\Debug\net6.0\RuokaAnnos.genruntimeconfig.cache
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\RuokaAnnos\RuokaAnnos\obj\Debug\net6.0\ref\RuokaAnnos.dll
