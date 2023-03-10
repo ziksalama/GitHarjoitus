@@ -66,9 +66,11 @@ while (retryloop)
     }
 }
 Console.WriteLine("Hinta:" + Hinta);
+
+
 class Nuoli
 {
-    
+
     private Kärki kärki;
     private Perä perä;
     public int cm;
@@ -78,10 +80,9 @@ class Nuoli
         this.perä = perä;
         this.cm = 60;
     }
-    
-    }
-//public int pituus;
 
+}
+//public int pituus;
 
 public enum Kärki { puu, teräs, timantti };
 public enum Perä { lehti, kanansulka, kotkansulka };

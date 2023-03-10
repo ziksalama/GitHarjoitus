@@ -1,0 +1,15 @@
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Nuolikauppa\Nuolikauppa\bin\Debug\net6.0\Nuolikauppa.exe
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Nuolikauppa\Nuolikauppa\bin\Debug\net6.0\Nuolikauppa.deps.json
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Nuolikauppa\Nuolikauppa\bin\Debug\net6.0\Nuolikauppa.runtimeconfig.json
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Nuolikauppa\Nuolikauppa\bin\Debug\net6.0\Nuolikauppa.dll
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Nuolikauppa\Nuolikauppa\bin\Debug\net6.0\Nuolikauppa.pdb
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Nuolikauppa\Nuolikauppa\obj\Debug\net6.0\Nuolikauppa.csproj.AssemblyReference.cache
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Nuolikauppa\Nuolikauppa\obj\Debug\net6.0\Nuolikauppa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Nuolikauppa\Nuolikauppa\obj\Debug\net6.0\Nuolikauppa.AssemblyInfoInputs.cache
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Nuolikauppa\Nuolikauppa\obj\Debug\net6.0\Nuolikauppa.AssemblyInfo.cs
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Nuolikauppa\Nuolikauppa\obj\Debug\net6.0\Nuolikauppa.csproj.CoreCompileInputs.cache
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Nuolikauppa\Nuolikauppa\obj\Debug\net6.0\Nuolikauppa.dll
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Nuolikauppa\Nuolikauppa\obj\Debug\net6.0\refint\Nuolikauppa.dll
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Nuolikauppa\Nuolikauppa\obj\Debug\net6.0\Nuolikauppa.pdb
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Nuolikauppa\Nuolikauppa\obj\Debug\net6.0\Nuolikauppa.genruntimeconfig.cache
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Nuolikauppa\Nuolikauppa\obj\Debug\net6.0\ref\Nuolikauppa.dll
