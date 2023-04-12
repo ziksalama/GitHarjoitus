@@ -1,0 +1,15 @@
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\robotti\robotti\obj\Debug\net6.0\robotti.csproj.AssemblyReference.cache
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\robotti\robotti\obj\Debug\net6.0\robotti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\robotti\robotti\obj\Debug\net6.0\robotti.AssemblyInfoInputs.cache
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\robotti\robotti\obj\Debug\net6.0\robotti.AssemblyInfo.cs
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\robotti\robotti\obj\Debug\net6.0\robotti.csproj.CoreCompileInputs.cache
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\robotti\robotti\bin\Debug\net6.0\robotti.exe
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\robotti\robotti\bin\Debug\net6.0\robotti.deps.json
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\robotti\robotti\bin\Debug\net6.0\robotti.runtimeconfig.json
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\robotti\robotti\bin\Debug\net6.0\robotti.dll
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\robotti\robotti\bin\Debug\net6.0\robotti.pdb
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\robotti\robotti\obj\Debug\net6.0\robotti.dll
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\robotti\robotti\obj\Debug\net6.0\refint\robotti.dll
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\robotti\robotti\obj\Debug\net6.0\robotti.pdb
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\robotti\robotti\obj\Debug\net6.0\robotti.genruntimeconfig.cache
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\robotti\robotti\obj\Debug\net6.0\ref\robotti.dll
