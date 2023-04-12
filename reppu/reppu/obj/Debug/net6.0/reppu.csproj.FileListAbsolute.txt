@@ -1,0 +1,5 @@
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\reppu\reppu\obj\Debug\net6.0\reppu.csproj.AssemblyReference.cache
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\reppu\reppu\obj\Debug\net6.0\reppu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\reppu\reppu\obj\Debug\net6.0\reppu.AssemblyInfoInputs.cache
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\reppu\reppu\obj\Debug\net6.0\reppu.AssemblyInfo.cs
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\reppu\reppu\obj\Debug\net6.0\reppu.csproj.CoreCompileInputs.cache
