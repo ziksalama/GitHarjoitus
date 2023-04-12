@@ -1,13 +1,13 @@
 ﻿//nuoli muuttaja
 using System.Collections.Generic;
-
+using System.Security.Cryptography.X509Certificates;
 
 Console.WriteLine("Rakenetaan nuoli!");
 Console.WriteLine("-------------------------------------------------------------");
 string insert;
 Kärki kärki = Kärki.puu;
 Perä perä = Perä.lehti;
-int pituus = 0;
+//int pituus = 0;
 
 Console.WriteLine("Minkälainen kärki? (puu, teräs vai timantti)");
 insert = Console.ReadLine();
@@ -52,7 +52,7 @@ while (retryloop)
     insert = Console.ReadLine();
     if (Int32.Parse(insert) >= 60 && (Int32.Parse(insert) <= 100))
     {
-        pituus = Int32.Parse(insert);
+        nuoli.Pituus = Int32.Parse(insert);
         retryloop = false;
 
     }
@@ -63,18 +63,18 @@ while (retryloop)
     }
 }
 
-
-nuoli uusinuoli = new nuoli(kärki, perä, pituus);
-
+nuoli uusinuoli = new nuoli(kärki, perä, 60);
 
 Console.WriteLine("hinta:" + uusinuoli.palautahinta());
+int pituus = uusinuoli.Pituus;
 
-class nuoli
+public class nuoli  
 {
-    public Kärki kärki;
-    public Perä perä;
-    public double kokohinta;
-    public int pituus;
+    private Kärki kärki;
+    private Perä perä;
+    private double kokohinta;
+    private int pituus;
+
     public nuoli(Kärki kärki, Perä perä, int pituus)
     {
         this.kärki = kärki;
@@ -82,9 +82,14 @@ class nuoli
         this.pituus = pituus;
     }
 
+    public int Pituus
+    {
+        get { return pituus; }
+        private set { pituus = value; }
+    }
+
     public double palautahinta()
     {
-        
         if (kärki == Kärki.puu)
         {
             kokohinta += 3;
@@ -109,15 +114,14 @@ class nuoli
         {
             kokohinta += 5;
         }
-        
-        kokohinta += 0.05 * pituus;
 
+        kokohinta += 0.05 * pituus;
 
         return kokohinta;
     }
-    
 }
 
 
-public enum Kärki { puu, teräs, timantti};
-public enum Perä { lehti, kanansulka, kotkansulka}
+
+public enum Kärki { puu, teräs, timantti };
+public enum Perä { lehti, kanansulka, kotkansulka }
