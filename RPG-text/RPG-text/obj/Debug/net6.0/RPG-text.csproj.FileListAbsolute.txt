@@ -1,0 +1,15 @@
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\RPG-text\RPG-text\bin\Debug\net6.0\RPG-text.exe
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\RPG-text\RPG-text\bin\Debug\net6.0\RPG-text.deps.json
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\RPG-text\RPG-text\bin\Debug\net6.0\RPG-text.runtimeconfig.json
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\RPG-text\RPG-text\bin\Debug\net6.0\RPG-text.dll
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\RPG-text\RPG-text\bin\Debug\net6.0\RPG-text.pdb
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\RPG-text\RPG-text\obj\Debug\net6.0\RPG-text.csproj.AssemblyReference.cache
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\RPG-text\RPG-text\obj\Debug\net6.0\RPG-text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\RPG-text\RPG-text\obj\Debug\net6.0\RPG-text.AssemblyInfoInputs.cache
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\RPG-text\RPG-text\obj\Debug\net6.0\RPG-text.AssemblyInfo.cs
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\RPG-text\RPG-text\obj\Debug\net6.0\RPG-text.csproj.CoreCompileInputs.cache
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\RPG-text\RPG-text\obj\Debug\net6.0\RPG-text.dll
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\RPG-text\RPG-text\obj\Debug\net6.0\refint\RPG-text.dll
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\RPG-text\RPG-text\obj\Debug\net6.0\RPG-text.pdb
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\RPG-text\RPG-text\obj\Debug\net6.0\RPG-text.genruntimeconfig.cache
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\RPG-text\RPG-text\obj\Debug\net6.0\ref\RPG-text.dll

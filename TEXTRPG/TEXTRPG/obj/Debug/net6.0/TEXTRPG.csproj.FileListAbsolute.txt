@@ -1,0 +1,15 @@
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\TEXTRPG\TEXTRPG\bin\Debug\net6.0\TEXTRPG.exe
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\TEXTRPG\TEXTRPG\bin\Debug\net6.0\TEXTRPG.deps.json
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\TEXTRPG\TEXTRPG\bin\Debug\net6.0\TEXTRPG.runtimeconfig.json
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\TEXTRPG\TEXTRPG\bin\Debug\net6.0\TEXTRPG.dll
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\TEXTRPG\TEXTRPG\bin\Debug\net6.0\TEXTRPG.pdb
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\TEXTRPG\TEXTRPG\obj\Debug\net6.0\TEXTRPG.csproj.AssemblyReference.cache
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\TEXTRPG\TEXTRPG\obj\Debug\net6.0\TEXTRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\TEXTRPG\TEXTRPG\obj\Debug\net6.0\TEXTRPG.AssemblyInfoInputs.cache
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\TEXTRPG\TEXTRPG\obj\Debug\net6.0\TEXTRPG.AssemblyInfo.cs
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\TEXTRPG\TEXTRPG\obj\Debug\net6.0\TEXTRPG.csproj.CoreCompileInputs.cache
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\TEXTRPG\TEXTRPG\obj\Debug\net6.0\TEXTRPG.dll
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\TEXTRPG\TEXTRPG\obj\Debug\net6.0\refint\TEXTRPG.dll
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\TEXTRPG\TEXTRPG\obj\Debug\net6.0\TEXTRPG.pdb
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\TEXTRPG\TEXTRPG\obj\Debug\net6.0\TEXTRPG.genruntimeconfig.cache
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\TEXTRPG\TEXTRPG\obj\Debug\net6.0\ref\TEXTRPG.dll

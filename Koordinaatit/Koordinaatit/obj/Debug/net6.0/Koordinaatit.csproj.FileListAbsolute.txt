@@ -1,0 +1,15 @@
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Koordinaatit\Koordinaatit\bin\Debug\net6.0\Koordinaatit.exe
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Koordinaatit\Koordinaatit\bin\Debug\net6.0\Koordinaatit.deps.json
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Koordinaatit\Koordinaatit\bin\Debug\net6.0\Koordinaatit.runtimeconfig.json
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Koordinaatit\Koordinaatit\bin\Debug\net6.0\Koordinaatit.dll
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Koordinaatit\Koordinaatit\bin\Debug\net6.0\Koordinaatit.pdb
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Koordinaatit\Koordinaatit\obj\Debug\net6.0\Koordinaatit.csproj.AssemblyReference.cache
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Koordinaatit\Koordinaatit\obj\Debug\net6.0\Koordinaatit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Koordinaatit\Koordinaatit\obj\Debug\net6.0\Koordinaatit.AssemblyInfoInputs.cache
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Koordinaatit\Koordinaatit\obj\Debug\net6.0\Koordinaatit.AssemblyInfo.cs
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Koordinaatit\Koordinaatit\obj\Debug\net6.0\Koordinaatit.csproj.CoreCompileInputs.cache
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Koordinaatit\Koordinaatit\obj\Debug\net6.0\Koordinaatit.dll
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Koordinaatit\Koordinaatit\obj\Debug\net6.0\refint\Koordinaatit.dll
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Koordinaatit\Koordinaatit\obj\Debug\net6.0\Koordinaatit.pdb
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Koordinaatit\Koordinaatit\obj\Debug\net6.0\Koordinaatit.genruntimeconfig.cache
+C:\Users\s2101024\OneDrive - Business College Helsinki\Desktop\GitHarjoitus\Koordinaatit\Koordinaatit\obj\Debug\net6.0\ref\Koordinaatit.dll
